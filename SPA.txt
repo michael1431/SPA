@@ -1,0 +1,8 @@
+1. Seed Command:
+
+   php artisan make:seeder Userseeder
+   
+   php aritsan migrate:fresh --seed
+
+2. vue 
+   npm install vue-router
